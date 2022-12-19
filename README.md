@@ -1,4 +1,4 @@
-### Hey, I'm <font color="green"> Manush </font>! 👋
+### Hey, I'm <font color="blue"> Manush </font>! 👋
 
 <!--
 **shahmanush/shahmanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
