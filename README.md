@@ -3,7 +3,7 @@
 - :school: Final year Student at BITS Pilani
 - :wrench: Love to solve problems and build  stuff
 - :computer: SDE Intern at Mudrex
-- :information_source: I primarily used Bitbucket for my internship so here's the link to that - 
+- :information_source: I primarily used Bitbucket for my internship so here's the link to that - https://bitbucket.org/manushshah/
 
 <!--
 **shahmanush/shahmanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
