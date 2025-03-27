@@ -1,9 +1,7 @@
 ### Hey, I'm  Manush! 👋
 
-- :school: Final year Student at BITS Pilani
-- :wrench: Love to solve problems and build  stuff
-- :computer: SDE Intern at Mudrex
-- :information_source: I primarily used Bitbucket for my internship so here's the link to that - https://bitbucket.org/manushshah/
+- :school: Grad Student at New York University (NYU)
+- :wrench: Passionate about tackling challenges and building solutions at the intersection of math, finance, and code.
 
 <!--
 **shahmanush/shahmanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
