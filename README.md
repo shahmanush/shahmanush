@@ -1,6 +1,6 @@
 ### Hey, I'm  Manush! 👋
 
-- :school: Grad Student at New York University (NYU)
+- :school: Master's in Financial Engineering Student at New York University (NYU)
 - 🚀: Passionate about tackling challenges and building solutions at the intersection of math, finance, and code.
 
 <!--
