@@ -1,7 +1,7 @@
 ### Hey, I'm  Manush! 👋
 
 - :school: Grad Student at New York University (NYU)
-- :wrench: Passionate about tackling challenges and building solutions at the intersection of math, finance, and code.
+- 🚀: Passionate about tackling challenges and building solutions at the intersection of math, finance, and code.
 
 <!--
 **shahmanush/shahmanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
